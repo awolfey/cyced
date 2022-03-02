@@ -262,6 +262,10 @@ section {
     MENU
 -----------------------------------------*/
 
+.nav {
+  padding-top: 10px;
+}
+
 .custom-navbar {
   background: #ffffff;
   border-top: 5px solid #cc2242;
