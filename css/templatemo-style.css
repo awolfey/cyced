@@ -1024,3 +1024,9 @@ footer .social-icon {
     height: inherit;
   }
 }
+
+
+.img-half {
+  width: 50%;
+  margin: 20px auto 40px;
+}
