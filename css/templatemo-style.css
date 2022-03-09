@@ -1023,6 +1023,22 @@ footer .social-icon {
     width: inherit;
     height: inherit;
   }
+
+  body {
+    padding-top: 0;
+  }
+
+  .custom-navbar {
+    position: relative;
+  }
+
+  .home-slider .item {
+    height: 300px;
+  }
+
+  .owl-item .caption {
+    display: none;
+  }
 }
 
 
